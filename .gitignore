@@ -1,0 +1,7 @@
+node_modules
+
+app/product
+
+app/user
+
+config/mysql.js
